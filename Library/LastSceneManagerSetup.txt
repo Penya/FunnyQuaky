@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/UFPS/Base/Content/Levels/DemoScene1/UFPS_DemoScene1.unity
+  isLoaded: 1
+  isActive: 1
